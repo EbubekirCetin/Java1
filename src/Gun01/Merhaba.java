@@ -10,12 +10,16 @@ public class Merhaba {
 
         System.out.println("Task 1 kodları ");
 
+        System.out.println("Task 2 kodları");
+
 
 
 
 
         //Kırmızı renk: Bu dosya takip edilimiyor
         //Yeşil renk: bu dosya takip ediliyor yani değişiklikler kaydedilecek
+
+        //commit: ozamana  kadar yaptığın değişikliklere bir isim vermek demektir.
 
 
 
